@@ -30,9 +30,9 @@ db = 'api_test'
 
 # 邮件配置
 smtp_server = 'smtp.sina.com'
-smtp_user = 'test_results@sina.com'
-smtp_password = '123456'
+smtp_user = '15701374212@163.com'
+smtp_password = 'Ao1351668'
 
 sender = smtp_user  # 发件人
-receiver = '2375247815@qq.com'  # 收件人
+receiver = '1064420684@qq.com'  # 收件人
 subject = '接口测试报告'  # 邮件主题
