@@ -31,7 +31,7 @@ db = 'api_test'
 # 邮件配置
 smtp_server = 'smtp.sina.com'
 smtp_user = '15701374212@163.com'
-smtp_password = 'Ao1351668'
+smtp_password = ''
 
 sender = smtp_user  # 发件人
 receiver = '1064420684@qq.com'  # 收件人
